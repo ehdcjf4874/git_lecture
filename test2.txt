@@ -1,0 +1,30 @@
+HEAD: 현재 체크아웃한 브랜치의 가장 최근 커밋을 가리키는 포인터
+백엔드 -> intellij idea
+프런트엔드 -> vscode, webstrom	
+데이터 -> python -> pycharm
+
+rebase
+
+git merge 명령어를 쳐서 두 브랜치를 합칠 떄는 (일부 경우를 제외하고) 
+merge commit이 생긴다.
+
+remote: 원격
+원격저장소는 깃헙에 있을 수도 있고, 깃랩, 비트버킷, 코드커밋 등에 있을 수 있다.
+
+fast foward merge?
+
+git pull origin main 
+= git fetch origin main + git merge origin/main
+별명이 origin인 원격 저장소의 main브랜치는 origin/main으로 컴퓨터가 인식한다.
+로컬에 있는 main브랜치는 main브랜치이다.
+
+구글검색: 오픈소스 이보라 https://www.youtube.com/watch?v=gJ4uHNBXRGE
+오픈소스 컨트리뷰션 아카데미 https://www.oss.kr/contribution_academy
+
+github관리법
+가능하면 잔디를 많이 심자
+
+read me 파일
+https://bluayer.com/26
+
+learnerbr@gmail.com
